@@ -1,0 +1,12 @@
+{
+  "model": "kling-4.0",
+  "input": {
+    "prompt": "@Image1 is the red fox with the brass compass. The same fox climbs onto a snowy ridge at dawn, shakes snow from its fur, and looks out over a frozen valley. Slow orbit around the fox. Wind and crunching snow.",
+    "reference_image_urls": [
+      "https://storage.poyo.ai/models/seedance-2-5/examples/inputs/reference-fox-image.webp"
+    ],
+    "duration": 5,
+    "resolution": "720p",
+    "aspect_ratio": "16:9"
+  }
+}

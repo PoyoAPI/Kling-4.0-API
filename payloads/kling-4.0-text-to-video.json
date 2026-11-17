@@ -1,0 +1,9 @@
+{
+  "model": "kling-4.0",
+  "input": {
+    "prompt": "A street food vendor at a night market flips noodles in a flaming wok, sparks and steam rising under warm string lights. Slow push-in from a medium shot to a close-up of the wok. Sizzling oil, crowd chatter, and the vendor calling out, \"Two more coming up!\"",
+    "duration": 5,
+    "resolution": "720p",
+    "aspect_ratio": "16:9"
+  }
+}

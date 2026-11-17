@@ -1,0 +1,18 @@
+{
+  "model": "kling-4.0",
+  "input": {
+    "multi_prompt": [
+      {
+        "prompt": "Wide shot: a lighthouse on a rocky cliff at dusk, waves crashing on the rocks below, wind and surf.",
+        "duration": 4
+      },
+      {
+        "prompt": "Close-up: the old lighthouse keeper lights the lamp and warm light spills across his face. He whispers, \"Right on time.\"",
+        "duration": 6
+      }
+    ],
+    "duration": 10,
+    "resolution": "720p",
+    "aspect_ratio": "16:9"
+  }
+}

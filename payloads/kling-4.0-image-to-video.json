@@ -1,0 +1,11 @@
+{
+  "model": "kling-4.0",
+  "input": {
+    "prompt": "The red fox keeps trotting through the misty forest, the brass compass swinging on its cord. The camera tracks alongside as sunbeams cut through the haze. Soft footsteps on moss and distant birdsong.",
+    "image_urls": [
+      "https://storage.poyo.ai/models/seedance-2-5/examples/inputs/reference-fox-image.webp"
+    ],
+    "duration": 5,
+    "resolution": "720p"
+  }
+}

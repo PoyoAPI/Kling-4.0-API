@@ -1,0 +1,8 @@
+{
+  "model": "kling-4.0",
+  "input": {
+    "prompt": "Restyle the whole clip as a soft watercolor painting on textured paper. Keep the vase, the peony, the window, and the timing of the bloom unchanged.",
+    "video_url": "https://storage.poyo.ai/happy-horse/flower-timelapse.mp4",
+    "duration": 10
+  }
+}

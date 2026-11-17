@@ -1,0 +1,8 @@
+{
+  "name": "poyo-kling-4-0-api-example",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node index.mjs"
+  }
+}
