@@ -6,7 +6,7 @@ Runnable examples for Kuaishou **Kling 4.0** through PoYo's async video API: 3�
 
 **Answer:** To use the Kling 4.0 API, send a server-side request to `POST https://api.poyo.ai/api/generate/submit` with model `kling-4.0` and a PoYo API key, then poll `GET https://api.poyo.ai/api/generate/status/{task_id}`. The examples in this repository run with Python 3.9+, Node.js 22+, or cURL.
 
-Last verified against the live PoYo schema and pricing on **November 17, 2026**.
+Last verified against the live PoYo schema and pricing on **November 19, 2026**.
 
 ## Kling 4.0 at a glance
 
@@ -177,6 +177,7 @@ A task that fails after submission returns `status: "failed"` with `error_messag
 
 ## Related repositories
 
+- [Kling-Image-4.0-API](https://github.com/PoyoAPI/Kling-Image-4.0-API) — Kling Image 4.0: native 8K images, image sets, and long webpage or ecommerce page designs from the Kling 4.0 family
 - [Kling-3.0-API](https://github.com/PoyoAPI/Kling-3.0-API) — Kling 3.0 with native 4K
 - [Seedance-2.5-API](https://github.com/PoyoAPI/Seedance-2.5-API) — Seedance 2.5 multimodal-reference video
 - [awesome-poyo-api](https://github.com/PoyoAPI/awesome-poyo-api) — every PoYo model repository in one list
